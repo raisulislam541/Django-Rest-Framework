@@ -5,32 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1d42a90-9c98-4814-92e3-20bd01b1106c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docker-compose.dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entrypoint.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nginx/live.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/music/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/music/migrations/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DRF.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DRF.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DRF/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DRF/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/asgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DRF/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DRF/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DRF/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/music/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/music/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/music/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/nginx/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/music/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/music/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/music/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/music/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/music/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/music/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/music/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/music/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/music/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +144,8 @@
       <workItem from="1587887879203" duration="4145000" />
       <workItem from="1632161125436" duration="7967000" />
       <workItem from="1632201291827" duration="1395000" />
-      <workItem from="1632203918220" duration="732000" />
+      <workItem from="1632203918220" duration="3807000" />
+      <workItem from="1632215849024" duration="828000" />
     </task>
     <servers />
   </component>

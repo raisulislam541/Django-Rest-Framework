@@ -10,4 +10,7 @@ class ListSongsView(generics.ListAPIView):
     queryset = Songs.objects.all()
     serializer_class = SongsSerializer
 
+def health(request):
+    return "hello"   
+
 

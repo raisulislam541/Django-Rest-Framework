@@ -1,4 +1,4 @@
-FROM python:3.8.5-alpine
+FROM python:3.9-alpine
 
 RUN pip install --upgrade pip
 
@@ -8,6 +8,7 @@ RUN pip install -r requirements.txt
 COPY ./src /src
 
 WORKDIR /src
+
 
 COPY ./entrypoint.sh /
 ENTRYPOINT ["sh", "/entrypoint.sh"]

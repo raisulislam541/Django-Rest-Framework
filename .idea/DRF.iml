@@ -17,7 +17,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/music" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Remote Python 3.9.2 Docker Compose (app at [/Volumes/Raisul/ALice/server-dashboard/docker-compose.debug.yml])" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TemplatesService">
